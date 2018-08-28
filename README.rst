@@ -2,10 +2,10 @@
 My Company Inc. [API Tests]
 ########################################
 
-This repository contains `Selenium <http://seleniumhq.org/>`_ tests for the `My Company Inc. <http://www.MyCompany.com/>`_, `GitHub Account <https://github.com/ACCOUNT/REPOSITORY>`_.
+This repository contains `Selenium <http://seleniumhq.org/>`_ tests for the `My Company Inc. <http://www.MyCompany.com/>`_, `GitHub Account <https://github.com/MyAccForQA/MyAppleAPI>`_.
 
 
-    .. image:: https://github.com/ACCOUNT/REPOSITORY/blob/master/screenshot/README/homepage.png
+    .. image:: https://github.com/MyAccForQA/MyAppleAPI/blob/master/screenshot/README/homepage.png
         :alt: My Company Inc.
         :width: 30%
         :align: center
@@ -33,9 +33,9 @@ Make sure you have `Git <https://git-scm.com/>`_ installed on your system. For c
 ----------------
 GitHub
 ----------------
-Make sure you have access `GitHub Account <https://github.com/ACCOUNT/REPOSITORY>`_:
+Make sure you have access `GitHub Account <https://github.com/MyAccForQA/MyAppleAPI>`_:
 
-``git clone https://github.com/ACCOUNT/REPOSITORY``
+``git clone https://github.com/MyAccForQA/MyAppleAPI``
 
 ----------------
 Maven
